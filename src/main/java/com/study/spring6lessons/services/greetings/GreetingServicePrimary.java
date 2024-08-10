@@ -1,4 +1,4 @@
-package com.study.spring6lessons.services;
+package com.study.spring6lessons.services.greetings;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;

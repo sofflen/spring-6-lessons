@@ -1,6 +1,6 @@
-package com.study.spring6lessons.controllers;
+package com.study.spring6lessons.controllers.greetings;
 
-import com.study.spring6lessons.services.GreetingService;
+import com.study.spring6lessons.services.greetings.GreetingService;
 import org.springframework.stereotype.Controller;
 
 @Controller

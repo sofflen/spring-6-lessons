@@ -1,6 +1,6 @@
-package com.study.spring6lessons.controllers.i18n;
+package com.study.spring6lessons.controllers.greetings.i18n;
 
-import com.study.spring6lessons.services.GreetingService;
+import com.study.spring6lessons.services.greetings.GreetingService;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 

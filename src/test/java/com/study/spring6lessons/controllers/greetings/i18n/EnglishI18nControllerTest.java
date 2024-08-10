@@ -1,9 +1,9 @@
-package com.study.spring6lessons.controllers.i18n;
+package com.study.spring6lessons.controllers.greetings.i18n;
 
+import com.study.spring6lessons.controllers.greetings.i18n.I18nController;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.ActiveProfiles;
 
 //@ActiveProfiles("EN")
 @SpringBootTest
